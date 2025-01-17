@@ -55,8 +55,8 @@ Ensure you have the following installed:
 ### Steps to Deploy:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/iam-harshsoni/DevOps-Project
-   cd Project-3-Terraform-EKS/
+   git clone https://github.com/singhshivam0898/Terraform-EKS.git
+   
 2. Initialize Terraform:
    ```bash
    terraform init
